@@ -359,7 +359,7 @@
                             <h3>{{ .Params.nombre }}</h3>
                         </div>
                         <p>
-                            {{ .Params.info }}
+                            {{ .Params.info | markdownify }}
                         </p>
                     </div>
                 </div>
