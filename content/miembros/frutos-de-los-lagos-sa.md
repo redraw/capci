@@ -1,5 +1,5 @@
 ---
-nombre: FRUTOS DE LOS LAGOS S.A..
+nombre: FRUTOS DE LOS LAGOS S.A.
 imagen: /images/uploads/extra.jpg
 info: |-
   Ruta N°24, Km 6 (9020) Sarmiento - Chubut - Argentina\
