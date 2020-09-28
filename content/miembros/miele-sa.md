@@ -1,5 +1,5 @@
 ---
-nombre: MIELE S.A
+nombre: MIELE S.A.
 imagen: images/members/miele.jpg
 info: |-
   Tucuman 513 Of. 101 (8332) General Roca - Rio Negro - Argentina\
