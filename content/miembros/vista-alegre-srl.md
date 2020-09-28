@@ -1,5 +1,5 @@
 ---
-nombre: VISTA ALEGRE SRL
+nombre: VISTA ALEGRE S.R.L
 imagen: images/members/vistaalegre.jpg
 info: >-
   Ruta 7 y acceso Vista Alegre Sur s/n (8309) Vista Alegre Sur - Neuquén -
@@ -13,4 +13,3 @@ info: >-
 
   Mail: export@vistalegre.com.ar
 ---
-
