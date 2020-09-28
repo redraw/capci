@@ -4,9 +4,9 @@ imagen: /images/uploads/coop-productores-chubut-logo.jpg
 info: >-
   Chubut –
   Argentina                                                                                                                                                       C.
-  Güemes y Fontana - Gaiman   
+  Güemes y Fontana -
+  Gaiman                                                                                                                                   Tel.
+  +54 – 280 4491920
 
-  Tel. +54 – 280 4491920
-
-  Contacto: Walter Dominguez                                                                                                                                       Mail: dominguezwa@gmail.com
+  Contacto: Walter Dominguez                                                                                                                                      Mail: dominguezwa@gmail.com
 ---
