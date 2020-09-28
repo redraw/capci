@@ -2,7 +2,7 @@
 nombre: CEREZAS ARGENTINAS S.A.
 imagen: images/members/ca.jpg
 info: |-
-  ![](/images/uploads/extraberries.jpg)
+  ![]()
 
   Ruta Nacional N° 22 KM 1063 (8364) Chimpay - Rio Negro - Argentina\
   Tel. (54) 9 11 6257-3802\
