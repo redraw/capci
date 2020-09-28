@@ -1,5 +1,5 @@
 ---
-nombre: FRAGAPANE hnos. s.r.l
+nombre: FRAGAPANE Hnos. S.R.L
 imagen: /images/uploads/fragapane-logo.jpeg
 info: >-
   Mendoza -
