@@ -1,6 +1,6 @@
 ---
 nombre: FRUTOS DE LOS LAGOS S.A..
-imagen: images/members/fl.jpg
+imagen: /images/uploads/extraberries.jpg
 info: |-
   Ruta N°24, Km 6 (9020) Sarmiento - Chubut - Argentina\
   Tel. (54) 0297 43142601 Fax. (54) 0297 43142601\
@@ -8,4 +8,3 @@ info: |-
   Contacto: Alejandro Brunetto\
   Mail: abrunetto@frutosdeloslagos.com
 ---
-
