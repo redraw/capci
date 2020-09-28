@@ -1,16 +1,10 @@
 ---
 nombre: FRUTOS DEL VALLE PATAGÓNICO S.A
 imagen: /images/uploads/frutos-del-valle-patagonico-logo.jpg
-info: |-
-  Chubut - Argentina
+info: >-
+  Chubut - Argentina Paraguay 105 - Trelew
 
-   Tel. +54 - 297 43142601 
+  Tel. +54 – 11 33334381
 
-  Fax. +54 - 297 43142601 
-
-  [http://www.frutosdeloslagos.com ](http://www.frutosdeloslagos.com)
-
-  Contacto: Alejandro Brunetto 
-
-  Mail: abrunetto@frutosdeloslagos.com
+  Contacto: Viviana Bircher                                                                                                                                                   Mail: vivibircher@yahoo.com.ar
 ---
