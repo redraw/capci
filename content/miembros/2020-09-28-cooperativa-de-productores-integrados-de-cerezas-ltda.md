@@ -9,6 +9,8 @@ info: >-
   +54 – 280 4491920
 
 
+  Contacto: Walter Dominguez                                                                                                                                      
 
-  Contacto: Walter Dominguez                                                                                                                                      Mail: dominguezwa@gmail.com
+
+  Mail: dominguezwa@gmail.com
 ---
