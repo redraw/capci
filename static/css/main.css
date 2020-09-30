@@ -590,6 +590,9 @@ ul.nostyle i {
   transition: border-color 400ms;
   -webkit-transition: border-color 400ms;
 }
+#members .team-member p {
+  margin: 0;
+}
 #members .team-member .team-img {
   padding-bottom: 20px;
   background: white;
