@@ -6,5 +6,5 @@ info: |-
   Tel. (54) 9 11 6257-3802 Fax. (54) 0297 43142601\
   <http://www.frutosdeloslagos.com>\
   Contacto: Hernán De Bellis\
-  Mail: debellis@extraberries.com
+  Mail: hdebellis@samconsult.com
 ---
