@@ -6,6 +6,6 @@ info: |-
   Tel. (54) 9 11 6257-3802\
   <http://www.cerezasargentinas.com>\
   Contacto: Hernán De Bellis\
-  Mail: debellis@extraberries.com \
+  Mail: hdebellis@samconsult.com\
   Certificaciones: GlobalGap - Tesco - GRASP
 ---
