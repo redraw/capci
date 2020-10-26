@@ -8,5 +8,5 @@ info: |-
   [https://www.capci.com.ar ](https://www.capci.com.ar) \
   Facebook CAPCI\
   Contacto: Anibal Caminiti \
-  Mail: gerenciacapci@gmail.com
+  Mail: gerencia@capci.com.ar
 ---
