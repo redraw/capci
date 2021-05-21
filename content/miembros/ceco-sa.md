@@ -6,6 +6,5 @@ info: |-
   Tel. (54) 0299 4437279 Fax. (54) 00299) 4457235\
   <http://www.cecoargentina.com>\
   Contacto: Gerardo Salvadó\
-  Mail: gsalvado@cecoargentina.com
+  E-mail: gsalvado@cecoargentina.com
 ---
-
