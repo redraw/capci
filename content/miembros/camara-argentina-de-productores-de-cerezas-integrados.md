@@ -6,7 +6,7 @@ info: |-
   8300 Neuquén - Argentina \
   Tel. (54) 0299 485553 | Fax (54) 0299 485553 \
   [https://www.capci.com.ar ](https://www.capci.com.ar) \
-  Facebook CAPCI\
+  Facebook: CAPCI\
   Contacto: Anibal Caminiti \
-  Mail: gerencia@capci.com.ar
+  E-mail: gerencia@capci.com.ar
 ---
