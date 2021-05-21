@@ -15,5 +15,5 @@ info: >-
   Contacto: Raúl A. Fragapane
 
 
-  Mail: rfragapane@fragapanehnos.com.ar
+  E-mail: rfragapane@fragapanehnos.com.ar
 ---
