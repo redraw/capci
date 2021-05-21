@@ -7,8 +7,7 @@ info: |-
   Fax. (54) 011 47231609\
   <http://www.southerncrops.com.ar>\
   Contactos: Alejandro Zimmermann - Diego Aguilar\
-  Mail: alejandro.zimmermann@southerncrops.com.ar\
-  Mail: diego.aguilar@southerncrops.com.ar\
+  E-mail: alejandro.zimmermann@southerncrops.com.ar\
+  E-mail: diego.aguilar@southerncrops.com.ar\
   Certificaciones: GlobalGap - Tesco Nature - HACCP - SMETA
 ---
-
