@@ -6,7 +6,6 @@ info: |-
   Tel. (54) 0261 4964487 Fax. (54) 0261 4960903\
   <http://www.guizzofrutas.com>\
   Contacto: Fernando Güizzo Giudice\
-  Mail: export@guizzofrutas.com\
+  E-mail: export@guizzofrutas.com\
   Certificaciones: GlobalGap - Tesco Nature
 ---
-
