@@ -6,6 +6,5 @@ info: |-
   Tel. (54) 0261 5708475\
   <http://www.mendozacherries.com>\
   Contacto: Facundo Quiroz \
-  Mail: facundoquiros@yahoo.com
+  E-mail: facundoquiros@yahoo.com
 ---
-
