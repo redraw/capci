@@ -12,5 +12,5 @@ info: >-
   Contacto: Walter Dominguez                                                                                                                                      
 
 
-  Mail: dominguezwa@gmail.com
+  E-mail: dominguezwa@gmail.com
 ---
