@@ -11,5 +11,5 @@ info: >-
 
   Contacto: Carlos H. Enriquez\
 
-  Mail: export@vistalegre.com.ar
+  E-mail: export@vistalegre.com.ar
 ---
