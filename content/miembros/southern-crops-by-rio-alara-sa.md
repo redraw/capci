@@ -1,6 +1,6 @@
 ---
 nombre: SOUTHERN CROPS BY RÍO ALARA S.A.
-imagen: images/members/scrops.jpg
+imagen: /images/uploads/logo-southern-crops-rasa-.jpg
 info: |-
   Del Valle Iberlucea 2541 (1643) Beccar - Buenos Aires - Argentina\
   Tel. (54) 011 47231609 / 02622 424503\
