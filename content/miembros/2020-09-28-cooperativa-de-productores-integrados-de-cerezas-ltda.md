@@ -1,6 +1,6 @@
 ---
 nombre: COOPERATIVA DE PRODUCTORES INTEGRADOS DE CEREZAS Ltda.
-imagen: /images/uploads/coop-productores-chubut-logo.jpg
+imagen: /images/uploads/logo-patagonia-austral-gaiman.jpg
 info: >-
   Chubut –
   Argentina                                                                                                                                                       C.
