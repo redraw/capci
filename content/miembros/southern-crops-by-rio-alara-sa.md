@@ -13,6 +13,8 @@ info: >-
   Contactos: Alejandro Zimmermann || Diego Aguilar\
 
   [alejandro.zimmermann@southerncrops.com.ar](alejandro.zimmermann@southerncrops.com.ar) ||\
-   [diego.aguilar@southerncrops.com.ar](diego.aguilar@southerncrops.com.ar)\
+
+  [diego.aguilar@southerncrops.com.ar](diego.aguilar@southerncrops.com.ar)\
+
   Certificaciones: GlobalGap - Tesco Nature - HACCP - SMETA
 ---
