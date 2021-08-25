@@ -1,5 +1,5 @@
 ---
-nombre: EXTRABERRIES S.A.- Chimpa, Río Negro
+nombre: EXTRABERRIES S.A.- Chimpay, Río Negro
 imagen: /images/uploads/extra.jpg
 info: >-
   <!--StartFragment-->Ruta Nacional N° 22 KM 1063 (8364) Chimpay - Rio Negro -
