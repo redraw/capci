@@ -1,5 +1,5 @@
 ---
-nombre: EXTRABERRIES S.A.- Colonia Sarmiento, Chubut
+nombre: EXTRABERRIES S.A.- Chubut
 imagen: /images/uploads/extra.jpg
 info: >-
   <!--StartFragment-->Ruta 24, Km. 6, 9020, Colonia Sarmiento, Chubut.
