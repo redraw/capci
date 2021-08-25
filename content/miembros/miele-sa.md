@@ -6,6 +6,6 @@ info: |-
   Tel. (54) 9 2984 67-6704 Fax. (54) 0298 4430789\
   <http://www.mielesa.com.ar>\
   Contacto: Marcos Scoffield\
-  E-mail: mscoffield@miele.com.ar\
+  E-mail: [mscoffield@miele.com.ar](mscoffield@miele.com.ar)\
   Certificaciones: GlobalGap - Tesco
 ---
