@@ -13,9 +13,7 @@ info: >-
 
   Contactos: Alejandro Zimmermann || Diego Aguilar
 
-
-  E-mail: [alejandro.zimmermann@southerncrops.com.ar](https://capci.com.ar/alejandro.zimmermann@southerncrops.com.ar) ||
-
+   [alejandro.zimmermann@southerncrops.com.ar](https://capci.com.ar/alejandro.zimmermann@southerncrops.com.ar) ||
 
   [diego.aguilar@southerncrops.com.ar](https://capci.com.ar/diego.aguilar@southerncrops.com.ar)
 
